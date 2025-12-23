@@ -20,7 +20,7 @@
         rel="noopener noreferrer"
         ><i class="iconfont icon-twitter"></i> Twitter</a
       >
-      <a class="gmail" href="mailto:4W6wuGG6KO87250+logoly@gmail.com"
+      <a class="gmail" href="mailto:konglongxiao723@gmail.com"
         ><i class="iconfont icon-gmail"></i> Email</a
       >
     </div>
