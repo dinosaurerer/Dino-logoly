@@ -7,7 +7,7 @@ describe('AboutView', () => {
     const wrapper = mount(AboutView);
     expect(wrapper.text()).toContain('Logoly.pro');
     const link = wrapper.get('a');
-    expect(link.attributes('href')).toBe('https://github.com/bestony/logoly');
+    expect(link.attributes('href')).toBe('https://github.com/dinosaurerer/logoly');
     expect(link.attributes('target')).toBe('_blank');
   });
 });

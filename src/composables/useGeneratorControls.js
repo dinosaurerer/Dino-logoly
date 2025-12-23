@@ -41,7 +41,7 @@ export function useGeneratorControls(options = {}) {
 
   const twitter = () => {
     const url = 'https://logoly.pro';
-    const text = encodeURIComponent(`Built with #LogolyPro, by @xiqingongzi ${url}`);
+    const text = encodeURIComponent(`Built with #LogolyPro, by @4W6wuGG6KO87250 ${url}`);
     window.open(`https://twitter.com/intent/tweet?text=${text}`);
   };
 

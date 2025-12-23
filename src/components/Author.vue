@@ -1,26 +1,26 @@
 <template>
   <div>
     <div class="flex flex-col items-center pt-20 pb-12">
-      <img class="max-w-24 rounded-full mb-3" src="../assets/avatar.png" alt="bestony" />
-      <h2 class="text-2xl font-semibold py-2">Bestony</h2>
+      <img class="max-w-24 rounded-full mb-3" src="../assets/avatar.png" alt="dinosaurerer" />
+      <h2 class="text-2xl font-semibold py-2">dinosaurerer</h2>
       <h4 class="font-semibold">An indie developer / Focus on something interesting.</h4>
     </div>
     <div class="flex justify-around items-center py-12">
       <a
         class="github"
-        href="https://github.com/bestony"
+        href="https://github.com/dinosaurerer"
         target="_blank"
         rel="noopener noreferrer"
         ><i class="iconfont icon-github"></i> GitHub</a
       >
       <a
         class="twitter"
-        href="https://twitter.com/xiqingongzi"
+        href="https://twitter.com/4W6wuGG6KO87250"
         target="_blank"
         rel="noopener noreferrer"
         ><i class="iconfont icon-twitter"></i> Twitter</a
       >
-      <a class="gmail" href="mailto:xiqingongzi+logoly@gmail.com"
+      <a class="gmail" href="mailto:4W6wuGG6KO87250+logoly@gmail.com"
         ><i class="iconfont icon-gmail"></i> Email</a
       >
     </div>

@@ -1,7 +1,7 @@
 <template>
   <a
     class="absolute md:fixed top-0 right-0"
-    href="https://github.com/bestony/logoly"
+    href="https://github.com/dinosaurerer/Dino-logoly"
     target="_blank"
     rel="noopener noreferrer"
   >
