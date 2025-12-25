@@ -20,7 +20,7 @@
 
 ## How to Use
 
-1. open the Logoly website: [https://logoly.pro/](https://logoly.pro/)
+1. open the Logoly website: [https://logo.094694.xyz/](https://logo.094694.xyz/)
 2. edit the text in the box
 3. change color & font size as you like
 4. click the **Export** button to download the image
